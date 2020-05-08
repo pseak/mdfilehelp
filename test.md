@@ -22,7 +22,6 @@
 >>>引用3
 
 ---
-[image](svn://svnbucket.com/CUG2018_thw/fpga_cpu/trunk/LOGO天蝎.jpg)
 ***
 [百度](http://baidu.com)
 
